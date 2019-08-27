@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.49ee8221.chunk.css",
-    "main.js": "/static/js/main.0ca0727e.chunk.js",
-    "main.js.map": "/static/js/main.0ca0727e.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.ea9f783b.js",
-    "runtime~main.js.map": "/static/js/runtime~main.ea9f783b.js.map",
-    "static/js/2.39bf4e4b.chunk.js": "/static/js/2.39bf4e4b.chunk.js",
-    "static/js/2.39bf4e4b.chunk.js.map": "/static/js/2.39bf4e4b.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.d166d12ae21baa37eedb576dc3ece8c3.js": "/precache-manifest.d166d12ae21baa37eedb576dc3ece8c3.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.49ee8221.chunk.css.map": "/static/css/main.49ee8221.chunk.css.map",
-    "static/media/not-found.svg": "/static/media/not-found.76758a29.svg",
-    "static/media/upload-file.svg": "/static/media/upload-file.51638bd0.svg"
+    "main.css": "/polindromes/build/static/css/main.49ee8221.chunk.css",
+    "main.js": "/polindromes/build/static/js/main.b65608a3.chunk.js",
+    "main.js.map": "/polindromes/build/static/js/main.b65608a3.chunk.js.map",
+    "runtime~main.js": "/polindromes/build/static/js/runtime~main.6bd8b406.js",
+    "runtime~main.js.map": "/polindromes/build/static/js/runtime~main.6bd8b406.js.map",
+    "static/js/2.39bf4e4b.chunk.js": "/polindromes/build/static/js/2.39bf4e4b.chunk.js",
+    "static/js/2.39bf4e4b.chunk.js.map": "/polindromes/build/static/js/2.39bf4e4b.chunk.js.map",
+    "index.html": "/polindromes/build/index.html",
+    "precache-manifest.fcf66749ccc9c185739c0f9460e14a7e.js": "/polindromes/build/precache-manifest.fcf66749ccc9c185739c0f9460e14a7e.js",
+    "service-worker.js": "/polindromes/build/service-worker.js",
+    "static/css/main.49ee8221.chunk.css.map": "/polindromes/build/static/css/main.49ee8221.chunk.css.map",
+    "static/media/not-found.svg": "/polindromes/build/static/media/not-found.76758a29.svg",
+    "static/media/upload-file.svg": "/polindromes/build/static/media/upload-file.51638bd0.svg"
   }
 }
