@@ -17,15 +17,20 @@ section {
     justify-content: center;
 }
 
-article {
-    flex: 0 0 300px;
+aside {
+    flex: 0 0 400px;
     padding: 0 20px;
+}
+
+h2 {
+    text-align: left;
 }
 
 .sourceText {
     width: 500px;
     height: 200px;
     resize: none;
+    border: 1px solid #eee;
 }
 
 .block-first {
@@ -33,7 +38,7 @@ article {
 }
 
 .block-first.block-active {
-    border-right: 1px solid #cccccc;
+    border-right: 1px solid #eee;
 }
 
 .selected {
@@ -42,8 +47,9 @@ article {
     padding: 2px;
 }
 
-.highlighted {
+.highlighted-text {
     text-align: justify;
+    line-height: 30px;
 }
 
 .actions {
@@ -103,7 +109,13 @@ ul.foundPalindromes li {
 .file-loader-block{
     width: 500px;
     height: 100px;
+    border: 1px solid #eee;
 }
+
 .file-loader-input{
     display: none;
+}
+
+.file-loader-block:hover{
+    opacity: 0.6;
 }

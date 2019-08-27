@@ -10,12 +10,11 @@ export default ({palindromes = [], isSearchLongest = false}) => {
         return longestIdx
     }, [palindromes, isSearchLongest]);
 
-    return (<>
-        <h2>Palindromes found</h2>
+    return (
         <ul className={'foundPalindromes'}>
             {palindromes.map((item, i) => <li key={i}>
                 {item} {(null !== longest && longest === i) ? <span className={'longest'}>longest</span> : ''}
             </li>)}
         </ul>
-    </>)
+    )
 }
